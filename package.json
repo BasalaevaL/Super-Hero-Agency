@@ -1,0 +1,22 @@
+{
+  "name": "sha",
+  "version": "1.0.0",
+  "description": "Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasalaevaL/Super-Hero-Agency.git"
+  },
+  "author": "Lia Basalaeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BasalaevaL/Super-Hero-Agency/issues"
+  },
+  "homepage": "https://github.com/BasalaevaL/Super-Hero-Agency#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
